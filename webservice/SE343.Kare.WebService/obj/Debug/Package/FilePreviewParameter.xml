@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SE343.Kare.Webservice" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Isioma\\Documents\\Visual\ Studio\ 2013\\Projects\\Kare\\webservice\\SE343\.Kare\.WebService\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Isioma\\Documents\\Visual\ Studio\ 2013\\Projects\\Kare\\webservice\\SE343\.Kare\.WebService\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="AssignmentsContext-Web.config Connection String" description="" value="Data Source=kare.isioma.me;Initial Catalog=SE343.Kare.WebService.DataContexts.AssignmentsContext;User ID=kare_user;Password=se343kare!!" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Isioma\\Documents\\Visual\ Studio\ 2013\\Projects\\Kare\\webservice\\SE343\.Kare\.WebService\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AssignmentsContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -7,19 +7,17 @@ namespace SE343.Kare.WebService.Models
 {
     public class Exercise
     {
-        private List<Instruction> _instructions;
-        private Quiz _quiz;
+        
+        public int ExerciseId { get; set; }
 
-        public List<Instruction> Instructions
-        {
-            get { return _instructions; }
-            set { _instructions = value; }
-        }
+        public int QuizId { get; set; }
 
-        public Quiz Quiz
-        {
-            get { return _quiz; }
-            set { _quiz = value; }
-        }
+        public String Name { get; set; }
+
+        public virtual Quiz Quiz { get; set; }
+
+        public virtual List<Instruction> Instructions { get; set; }
+
+        
     }
 }

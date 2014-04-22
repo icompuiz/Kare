@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\Users\Isioma\documents\visual studio 2013\Projects\SE343.Kare.WebService\SE343.Kare.WebService\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
-  <setAcl path="C:\Users\Isioma\documents\visual studio 2013\Projects\SE343.Kare.WebService\SE343.Kare.WebService\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="C:\Users\Isioma\documents\visual studio 2013\Projects\SE343.Kare.WebService\SE343.Kare.WebService\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\SE343.Kare.WebService\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\SE343.Kare.WebService\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\SE343.Kare.WebService\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>

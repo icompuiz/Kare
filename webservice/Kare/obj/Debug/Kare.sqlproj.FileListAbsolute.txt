@@ -1,0 +1,5 @@
+C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\Kare\bin\Debug\Kare.dacpac
+C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\Kare\bin\Debug\Kare.dll
+C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\Kare\bin\Debug\Kare.pdb
+C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\Kare\obj\Debug\Kare.dll
+C:\Users\Isioma\Documents\Visual Studio 2013\Projects\Kare\webservice\Kare\obj\Debug\Kare.pdb
