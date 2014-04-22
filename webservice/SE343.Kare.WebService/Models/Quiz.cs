@@ -13,5 +13,6 @@ namespace SE343.Kare.WebService.Models
         public int QuizId { get; set; }
 
         public String Name { get; set; }
+
     }
 }
